@@ -2,7 +2,7 @@
 - I successfully completed prestigious IT Bootcamp Quality Assurance Engineer course, which lasted for 3 months, 160 hours of theory and practice with final project.
 - Located in Serbia, Eastern Europe.
  
-- 👀 I’m interested in finding an opportunity to start my career as Junior QA Automation Engineer.
+- 👀 I’m interested in finding an opportunity to start my career as Junior QA Engineer (manual or automation).
 
 - 🌱 I’m currently learning (upgrading) and practicing PostgreSQL, Java, Selenium, Appium, Postman and JMeter.
 I also have a plan to upgrade my knowledge in HTML and CSS, and to start learning Python, JavaScript and Cypress in near future.
